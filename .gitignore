@@ -1,0 +1,7 @@
+*.exe
+*.bin
+*.tmp
+*.debug
+output/
+_logs/
+REF/
